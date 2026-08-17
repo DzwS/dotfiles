@@ -2,12 +2,12 @@
 
 # tools
 terminal:  ghostty  
-shell: zsh + starship prompt 
-productivity: atuin, zoxide, tmux 
-modern replacements: bat, eza, fd, ripgrep, fzf 
-devops specific: k9s, lazydocker, lazygit, httpie 
-security: 1password cli 
-ai: claude code, fabric 
+shell: zsh + starship prompt  
+productivity: atuin, zoxide, tmux  
+modern replacements: bat, eza, fd, ripgrep, fzf  
+devops specific: k9s, lazydocker, lazygit, httpie  
+security: 1password cli  
+ai: claude code, fabric  
 
 
 
