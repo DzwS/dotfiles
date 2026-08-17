@@ -1,7 +1,7 @@
 # dotfiles
 
 # tools
-terminal:  ghostty 
+terminal:  ghostty  
 shell: zsh + starship prompt 
 productivity: atuin, zoxide, tmux 
 modern replacements: bat, eza, fd, ripgrep, fzf 
